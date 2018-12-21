@@ -122,8 +122,8 @@
     <string name="app_ops_use_body_sensors">身体传感器</string>
     <string name="app_ops_read_cell_broadcasts">小区广播</string>
     <string name="app_ops_mock_location">模拟位置</string>
-    <string name="app_ops_read_external_storage">读取 ext. stor.</string>
-    <string name="app_ops_write_external_storage">写入 ext. stor.</string>
+    <string name="app_ops_read_external_storage">读取外部存储器</string>
+    <string name="app_ops_write_external_storage">写入外部存储器</string>
     <string name="app_ops_turn_on_screen">打开屏幕</string>
     <string name="app_ops_get_accounts">设备帐户</string>
     <string name="app_ops_run_in_background">后台进程</string>
@@ -157,7 +157,7 @@
 
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">通知声音的频率</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
+    <string name="less_notification_sounds_summary">在设定的期限内每个应用只能发出一次通知声音</string>
     <string name="less_notification_sounds_default">默认行为</string>
     <string name="less_notification_sounds_3s">每3秒</string>
     <string name="less_notification_sounds_5s">每5秒</string>
