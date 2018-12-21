@@ -178,7 +178,7 @@
     <string name="volume_steps_ring_title">音量级别: 铃声</string>
     <string name="volume_steps_system_title">音量级别: 系统</string>
     <string name="volume_steps_voice_call_title">音量级别: 通话音量</string>
-    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_reset">重置</string>
     <string name="volume_steps_60">60</string>
     <string name="volume_steps_45">45</string>
     <string name="volume_steps_30">30</string>
